@@ -28,7 +28,7 @@ Welcome to my Customer Experience and Administrative Operations portfolio. With 
 
 ### 💬 Customer Service & Support
 * **[Customer De-Escalation & Response Macros](./customer-support/de-escalation-templates.md)** – Sample email and live-chat response templates handling delayed deliveries, billing discrepancies, and out-of-policy refund requests with empathy and clarity.
-* **[Customer Support STAR Case Studies](./customer-support/star-case-studies.md)** – Real-world examples of resolving customer escalations, reducing repeat enquiries, and improving documentation workflows.
+* **[Customer Support STAR Case Studies](customer-support/customer-support/star-case-studies.md)** – Real-world examples of resolving customer escalations, reducing repeat enquiries, and improving documentation workflows.
 
 ### 📌 Virtual Assistance & Operations
 * **[Inbox & Calendar Management SOP](./virtual-assistance/inbox-management-sop.md)** – Step-by-step Standard Operating Procedure for triaging high-volume inboxes, managing follow-ups, and protecting executive focus time.
