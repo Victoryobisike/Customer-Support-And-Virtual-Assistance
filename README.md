@@ -31,7 +31,7 @@ Welcome to my Customer Experience and Administrative Operations portfolio. With 
 * **[Customer Support STAR Case Studies](customer-support/customer-support/star-case-studies.md)** – Real-world examples of resolving customer escalations, reducing repeat enquiries, and improving documentation workflows.
 
 ### 📌 Virtual Assistance & Operations
-* **[Inbox & Calendar Management SOP](./virtual-assistance/inbox-management-sop.md)** – Step-by-step Standard Operating Procedure for triaging high-volume inboxes, managing follow-ups, and protecting executive focus time.
+* **[Inbox & Calendar Management SOP](customer-support/customer-support/virtual-assistance/inbox-management-sop.md)** – Step-by-step Standard Operating Procedure for triaging high-volume inboxes, managing follow-ups, and protecting executive focus time.
 * **[Executive 3-Day Business Travel Itinerary](./virtual-assistance/executive-travel-itinerary.md)** – Structured multi-day travel and meeting schedule complete with flight buffers, accommodation details, and contingency contacts.
 
 ---
