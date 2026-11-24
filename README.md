@@ -42,10 +42,10 @@ Welcome to my Customer Experience and Administrative Operations portfolio. With 
 Unlike traditional support or administrative professionals, I also analyze operational data to help teams prevent recurring issues. View my data projects here:
 * **[GlowRoot Naturals – Field Activation Analysis (Excel)](https://github.com/Victoryobisike/GlowRootNaturals_analysis)**
 * **[DataCo Global – Sales & Customer Intelligence (Power BI)](https://github.com/Victoryobisike/DataCo_sales_analysis)**
-* **[Orion Data Systems – Workforce Analytics (MySQL)]()**
+* **[Orion Data Systems – Workforce Analytics (MySQL)](https://github.com/Victoryobisike/OrionWorkforce_analysis)**
 
 ---
 
 ## 🤝 Let's Connect
-* **LinkedIn:** [linkedin.com/in/your-profile](YOUR_LINKEDIN_LINK)
-* **Email:** your.email@example.com
+* **LinkedIn:** [linkedin.com/in/your-profile](www.linkedin.com/in/victory-o-8859a9234)
+* **Email:** victoryobisike6@gmail.com
