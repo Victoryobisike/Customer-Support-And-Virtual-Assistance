@@ -1,4 +1,4 @@
-![Customer Support & Virtual Assistance Banner](banner.jpg)
+![Customer Support & Virtual Assistance Banner](<Customer Support And VA banner.jpg>)
 
 # Customer Support & Virtual Assistance Portfolio
 
@@ -10,8 +10,8 @@ Welcome to my Customer Experience and Administrative Operations portfolio. With 
 
 | Focus Area | Video Introduction | Tailored CV |
 | :--- | :--- | :--- |
-| **Customer Service & Support** | [Watch Customer Support Intro Video](YOUR_CS_VIDEO_LINK_HERE) | [Download Customer Support CV (PDF)](./resumes/Victory_Obisike_Customer_Support_CV.pdf) |
-| **Virtual Assistance & Admin** | [Watch Virtual Assistant Intro Video](YOUR_VA_VIDEO_LINK_HERE) | [Download Virtual Assistant CV (PDF)](./resumes/Victory_Obisike_Virtual_Assistant_CV.pdf) |
+| **Customer Service & Support** | [Watch Customer Support Intro Video](https://drive.google.com/file/d/16kKM8RaVZE5NHLxXrrEUaxxEUXyUzigH/view?usp=drivesdk) | [Download Customer Support CV (PDF)](<UPDATED CUSTOMER SERVICE CV.pdf>)|
+| **Virtual Assistance & Admin** | [Watch Virtual Assistant Intro Video](https://drive.google.com/file/d/1kr5AqMw5m2ZpldEC7bFikGuVqnGml5eq/view?usp=drivesdk) | [Download Virtual Assistant CV (PDF)](<UPDATED VA CV.pdf>) |
 
 ---
 
