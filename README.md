@@ -1,1 +1,49 @@
-# Customer-Support-And-Virtual-Assistance
+![Customer Support & Virtual Assistance Banner](banner.jpg)
+
+# Customer Support & Virtual Assistance Portfolio
+
+Welcome to my Customer Experience and Administrative Operations portfolio. With a foundation in **Electrical & Electronic Engineering**, hands-on **Data Analytics** skills (Excel, SQL, Power BI), and practical experience in **Customer Support** and **Virtual Assistance**, I bring calm, structured problem-solving and clear communication to remote teams.
+
+---
+
+## 🎥 Video Introductions & Tailored CVs
+
+| Focus Area | Video Introduction | Tailored CV |
+| :--- | :--- | :--- |
+| **Customer Service & Support** | [Watch Customer Support Intro Video](YOUR_CS_VIDEO_LINK_HERE) | [Download Customer Support CV (PDF)](./resumes/Victory_Obisike_Customer_Support_CV.pdf) |
+| **Virtual Assistance & Admin** | [Watch Virtual Assistant Intro Video](YOUR_VA_VIDEO_LINK_HERE) | [Download Virtual Assistant CV (PDF)](./resumes/Victory_Obisike_Virtual_Assistant_CV.pdf) |
+
+---
+
+## 🛠️ Core Competencies & Tools
+
+* **Customer Experience:** Multi-channel Support (Email, Live Chat, Phone), Ticket Triage, De-escalation, Enquiry Resolution, FAQ Documentation, CSAT Tracking
+* **Virtual Assistance:** Inbox & Calendar Management, Multi-Timezone Scheduling, SOP Creation, Online Research, Digital File Organization, Travel & Event Logistics
+* **Technical & Analytical Stack:** Google Workspace (Docs, Sheets, Gmail, Drive, Calendar), Microsoft Office (Excel, Word, PowerPoint, Teams), Zoom, Slack, Canva, CRM & Helpdesk Workflows
+* **Languages:** English (Fluent), Nigerian Pidgin (Fluent), Turkish (Conversational)
+
+---
+
+## 📂 Portfolio Work Samples
+
+### 💬 Customer Service & Support
+* **[Customer De-Escalation & Response Macros](./customer-support/de-escalation-templates.md)** – Sample email and live-chat response templates handling delayed deliveries, billing discrepancies, and out-of-policy refund requests with empathy and clarity.
+* **[Customer Support STAR Case Studies](./customer-support/star-case-studies.md)** – Real-world examples of resolving customer escalations, reducing repeat enquiries, and improving documentation workflows.
+
+### 📌 Virtual Assistance & Operations
+* **[Inbox & Calendar Management SOP](./virtual-assistance/inbox-management-sop.md)** – Step-by-step Standard Operating Procedure for triaging high-volume inboxes, managing follow-ups, and protecting executive focus time.
+* **[Executive 3-Day Business Travel Itinerary](./virtual-assistance/executive-travel-itinerary.md)** – Structured multi-day travel and meeting schedule complete with flight buffers, accommodation details, and contingency contacts.
+
+---
+
+## 📊 Bridging Support with Data Analytics
+Unlike traditional support or administrative professionals, I also analyze operational data to help teams prevent recurring issues. View my data projects here:
+* **[GlowRoot Naturals – Field Activation Analysis (Excel)](YOUR_EXCEL_REPO_LINK)**
+* **[DataCo Global – Sales & Customer Intelligence (Power BI)](YOUR_POWERBI_REPO_LINK)**
+* **[Orion Data Systems – Workforce Analytics (MySQL)](YOUR_SQL_REPO_LINK)**
+
+---
+
+## 🤝 Let's Connect
+* **LinkedIn:** [linkedin.com/in/your-profile](YOUR_LINKEDIN_LINK)
+* **Email:** your.email@example.com
