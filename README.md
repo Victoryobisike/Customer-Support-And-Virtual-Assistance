@@ -1,6 +1,8 @@
+# Customer Support & Virtual Assistance Portfolio
+
 ![Customer Support & Virtual Assistance Banner](<Customer Support And VA banner.jpg>)
 
-# Customer Support & Virtual Assistance Portfolio
+
 
 Welcome to my Customer Experience and Administrative Operations portfolio. With a foundation in **Electrical & Electronic Engineering**, hands-on **Data Analytics** skills (Excel, SQL, Power BI), and practical experience in **Customer Support** and **Virtual Assistance**, I bring calm, structured problem-solving and clear communication to remote teams.
 
@@ -38,9 +40,9 @@ Welcome to my Customer Experience and Administrative Operations portfolio. With 
 
 ## 📊 Bridging Support with Data Analytics
 Unlike traditional support or administrative professionals, I also analyze operational data to help teams prevent recurring issues. View my data projects here:
-* **[GlowRoot Naturals – Field Activation Analysis (Excel)](YOUR_EXCEL_REPO_LINK)**
-* **[DataCo Global – Sales & Customer Intelligence (Power BI)](YOUR_POWERBI_REPO_LINK)**
-* **[Orion Data Systems – Workforce Analytics (MySQL)](YOUR_SQL_REPO_LINK)**
+* **[GlowRoot Naturals – Field Activation Analysis (Excel)](https://github.com/Victoryobisike/GlowRootNaturals_analysis)**
+* **[DataCo Global – Sales & Customer Intelligence (Power BI)](https://github.com/Victoryobisike/DataCo_sales_analysis)**
+* **[Orion Data Systems – Workforce Analytics (MySQL)]()**
 
 ---
 
