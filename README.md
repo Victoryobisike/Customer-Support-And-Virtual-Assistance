@@ -32,7 +32,7 @@ Welcome to my Customer Experience and Administrative Operations portfolio. With 
 
 ### 📌 Virtual Assistance & Operations
 * **[Inbox & Calendar Management SOP](customer-support/customer-support/virtual-assistance/inbox-management-sop.md)** – Step-by-step Standard Operating Procedure for triaging high-volume inboxes, managing follow-ups, and protecting executive focus time.
-* **[Executive 3-Day Business Travel Itinerary](./virtual-assistance/executive-travel-itinerary.md)** – Structured multi-day travel and meeting schedule complete with flight buffers, accommodation details, and contingency contacts.
+* **[Executive 3-Day Business Travel Itinerary](customer-support/customer-support/virtual-assistance/virtual-assistance/executive-travel-itinerary.md)** – Structured multi-day travel and meeting schedule complete with flight buffers, accommodation details, and contingency contacts.
 
 ---
 
